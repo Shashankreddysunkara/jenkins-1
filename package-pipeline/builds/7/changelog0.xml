@@ -1,0 +1,11 @@
+commit bad3fac962ebf88267798fd1e0f021c621a1e749
+tree bc2de2496700858b4be1156bdb02d34c29d4f168
+parent 5288286dbd91d168bacdb51b848899537cde8521
+author Dioler <diolermore@gmail.com> 2017-11-19 22:27:31 +0100
+committer Dioler <diolermore@gmail.com> 2017-11-19 22:27:31 +0100
+
+    Jenkinsfile new
+
+
+
+:100644 100644 800ffcdded0340d05ffeb7dd9abb20cc7360797a bf2ec223a163f5b8372b5ac005840536d7815731 M	Jenkinsfile

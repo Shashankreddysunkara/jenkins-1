@@ -1,0 +1,8 @@
+Started on Nov 13, 2017 8:37:03 PM
+Using strategy: Default
+ > git --version # timeout=10
+ > git ls-remote -h https://github.com/diolermore/maven-project.git # timeout=10
+Found 3 remote heads on https://github.com/diolermore/maven-project.git
+[poll] Latest remote head revision on refs/heads/master is: 04c7a52eefdaa0207766ff4118b86dd415a85bd0
+Done. Took 0.73 sec
+Changes found

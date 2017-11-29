@@ -1,0 +1,9 @@
+Started on Nov 23, 2017 9:04:05 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision 1992cb8eb71bb94742a5922bf2c539d9b71e3709 (refs/remotes/origin/master)
+ > git --version # timeout=10
+ > git ls-remote -h https://github.com/diolermore/maven-project.git # timeout=10
+Found 3 remote heads on https://github.com/diolermore/maven-project.git
+[poll] Latest remote head revision on refs/heads/master is: d5f12f3201e50ac46fba61cbf172d4625376732f
+Done. Took 0.73 sec
+Changes found

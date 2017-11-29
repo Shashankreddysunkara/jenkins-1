@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4IKvEIxBVQrMMD6JEGyRV0km907vlmeV27bhx7rAXHZNAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgYx/az8JP2CxOTsxPRU3YLMglSgzan6APrRJ7DLAAAA[0mpackage-pipeline" build number [8mha:////4IaOngsJ/HFcAvVr/n61GCBlmTa5X0KfEa6a9xu3q4SXAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYJ/az8JP2CxOTsxPRU3YLMglSgzan6hqYAx15Ukc0AAAA=[0m15
+originally caused by:
+ Started by user [8mha:////4DSQ6c5skD03CnQbLk2EmKWldfWsjAfoO0SlQ7j06urFAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /Users/Shared/Jenkins/Home/workspace/deploy-to-staging
+Copied 1 artifact from "[8mha:////4KKBpgXv4nmf9P0G8BBAPKMC99hFO5nzgSEpnyqpDowlAAAAjh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgL2Hg1c/KT9IvSEzOTkxP1QcAYtRxs5IAAAA=[0mpackage" build number [8mha:////4AjKbVxTRhbbLaZvsVtoxk+ECZKQkihjeTFWLLCnhNFSAAAAkR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKmEQ0M/KT9IvSEzOTkxP1Tc20AcATT2bCpUAAAA=[0m30
+Deploying /Users/Shared/Jenkins/Home/workspace/deploy-to-staging/webapp/target/webapp.war to container Tomcat 8.x Remote with context 
+  Redeploying [/Users/Shared/Jenkins/Home/workspace/deploy-to-staging/webapp/target/webapp.war]
+  Undeploying [/Users/Shared/Jenkins/Home/workspace/deploy-to-staging/webapp/target/webapp.war]
+  Deploying [/Users/Shared/Jenkins/Home/workspace/deploy-to-staging/webapp/target/webapp.war]
+Finished: SUCCESS

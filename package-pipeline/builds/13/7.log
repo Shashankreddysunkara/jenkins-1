@@ -1,0 +1,13 @@
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/diolermore/maven-project.git # timeout=10
+Fetching upstream changes from https://github.com/diolermore/maven-project.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/diolermore/maven-project.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 1992cb8eb71bb94742a5922bf2c539d9b71e3709 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 1992cb8eb71bb94742a5922bf2c539d9b71e3709
+Commit message: "Jenkinsfile modification to deploy to staging"
+ > git rev-list 1992cb8eb71bb94742a5922bf2c539d9b71e3709 # timeout=10

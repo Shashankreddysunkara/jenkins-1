@@ -1,0 +1,11 @@
+commit 287a0608349dc273ccd31c649e04870669794921
+tree 84abcc12aa73d1558aca9ce9bb6030a34fdea002
+parent 97000f1459b64341ab90919550b0e7546e9a80cc
+author Dioler <diolermore@gmail.com> 2017-11-18 18:06:09 +0100
+committer Dioler <diolermore@gmail.com> 2017-11-18 18:06:09 +0100
+
+    Fix last warning issue
+
+
+
+:100644 100644 2e2a209280e17c3ff6374a5e53a14b2892d3e6f1 e091dc5ef0fa5a8eb09dd88c0ea55b63cfb83c8d M	server/src/main/java/com/example/package-info.java

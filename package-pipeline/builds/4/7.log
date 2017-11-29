@@ -1,0 +1,13 @@
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/diolermore/maven-project.git # timeout=10
+Fetching upstream changes from https://github.com/diolermore/maven-project.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/diolermore/maven-project.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 5288286dbd91d168bacdb51b848899537cde8521 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 5288286dbd91d168bacdb51b848899537cde8521
+Commit message: "Include Jenkinsfile"
+ > git rev-list 68f07c25dd64cfd3772c45b437a8e3277df5588e # timeout=10

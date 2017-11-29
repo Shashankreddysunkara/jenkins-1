@@ -1,0 +1,18 @@
+Cloning the remote Git repository
+Cloning repository https://github.com/diolermore/maven-project.git
+ > git init /Users/Shared/Jenkins/Home/workspace/package-pipeline # timeout=10
+Fetching upstream changes from https://github.com/diolermore/maven-project.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/diolermore/maven-project.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/diolermore/maven-project.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/diolermore/maven-project.git # timeout=10
+Fetching upstream changes from https://github.com/diolermore/maven-project.git
+ > git fetch --tags --progress https://github.com/diolermore/maven-project.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 68f07c25dd64cfd3772c45b437a8e3277df5588e (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 68f07c25dd64cfd3772c45b437a8e3277df5588e
+Commit message: "Include Jenkinsfile"
+First time build. Skipping changelog.

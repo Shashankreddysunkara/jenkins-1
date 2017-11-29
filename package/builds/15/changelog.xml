@@ -1,0 +1,11 @@
+commit c363cac16312be9a50d47e07499050a82ac23bc7
+tree 7d5f393c6b921aa880780e38c200ce59e8662494
+parent b07544dd835d4ffb53b387e08508b5c9098c1000
+author Dioler <diolermore@gmail.com> 2017-11-18 18:25:26 +0100
+committer Dioler <diolermore@gmail.com> 2017-11-18 18:25:26 +0100
+
+    FindBugs  modification
+
+
+
+:100644 100644 96bba756593311818e4b8401a2564a167d6d6e0c 28a111ee27e20bfb754d360e353daa8b15d5078a M	pom.xml

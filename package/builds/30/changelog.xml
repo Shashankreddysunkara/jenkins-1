@@ -1,0 +1,11 @@
+commit d5f12f3201e50ac46fba61cbf172d4625376732f
+tree 091bcb8bd39f6f47f1206ae782c91fddb7839944
+parent 1992cb8eb71bb94742a5922bf2c539d9b71e3709
+author Dioler <diolermore@gmail.com> 2017-11-23 21:03:31 +0100
+committer Dioler <diolermore@gmail.com> 2017-11-23 21:03:31 +0100
+
+    Jenkinsfile modification to deploy to staging
+
+
+
+:100644 100644 f92f998308239f8cf2eb16bed445397632414bf9 111ad5a08432e95cf16888b463585d11b559a3d4 M	Jenkinsfile

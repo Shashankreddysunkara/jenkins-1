@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4M2FvGnMRoLF3LyBpGTuAVXxZJJXEwVyuMdG83wGwCKLAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2CxOTsxPRUfQCY/zGswgAAAA==[0mpackage" build number [8mha:////4PUpKnA7Eb18qmFJpedhEDHPYI3Ehtr17IeCUuOtjQrhAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ+/az8JP2CxOTsxPRUfSNzAPYIpDnEAAAA[0m27
+originally caused by:
+ Started by an SCM change
+Building in workspace /Users/Shared/Jenkins/Home/workspace/deploy-to-staging
+Copied 1 artifact from "[8mha:////4KKBpgXv4nmf9P0G8BBAPKMC99hFO5nzgSEpnyqpDowlAAAAjh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgL2Hg1c/KT9IvSEzOTkxP1QcAYtRxs5IAAAA=[0mpackage" build number [8mha:////4B/19wY3VpaRIx3j3H3aF36oA+VkH0ho1/K1IyWmV3xkAAAAkR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKmEQ0M/KT9IvSEzOTkxP1Tcy1wcAvcEYRJUAAAA=[0m27
+Deploying /Users/Shared/Jenkins/Home/workspace/deploy-to-staging/webapp/target/webapp.war to container Tomcat 8.x Remote with context 
+  Redeploying [/Users/Shared/Jenkins/Home/workspace/deploy-to-staging/webapp/target/webapp.war]
+  Undeploying [/Users/Shared/Jenkins/Home/workspace/deploy-to-staging/webapp/target/webapp.war]
+  Deploying [/Users/Shared/Jenkins/Home/workspace/deploy-to-staging/webapp/target/webapp.war]
+Finished: SUCCESS

@@ -1,0 +1,11 @@
+commit 97000f1459b64341ab90919550b0e7546e9a80cc
+tree 7a375a212723c1e0d0c6f20e7d596de1d8921c8a
+parent 52f11158ced8a9560d7e8b8bde35cfd9dd3a891f
+author Dioler <diolermore@gmail.com> 2017-11-18 18:00:36 +0100
+committer Dioler <diolermore@gmail.com> 2017-11-18 18:00:36 +0100
+
+    fix warning
+
+
+
+:100644 100644 1f03f99ffb27e12ca9d687bfdaa6fbb3e9f6f083 2e2a209280e17c3ff6374a5e53a14b2892d3e6f1 M	server/src/main/java/com/example/package-info.java

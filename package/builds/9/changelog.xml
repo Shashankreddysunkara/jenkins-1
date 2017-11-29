@@ -1,0 +1,12 @@
+commit 52f11158ced8a9560d7e8b8bde35cfd9dd3a891f
+tree de891f200baba47f278b077c82f8050482d8bae0
+parent d12406e5e48f53dbfe30aa6cc96df40eb561676d
+author Dioler <diolermore@gmail.com> 2017-11-18 17:55:37 +0100
+committer Dioler <diolermore@gmail.com> 2017-11-18 17:55:37 +0100
+
+    fix checkstyle warnings
+
+
+
+:100644 100644 fa26bc76f3d443f99ffba60a1e46a9d29f84708e 15a8381b50ed210f8696728c145eee9f7d6caaf6 M	server/src/main/java/com/example/Greeter.java
+:000000 100644 0000000000000000000000000000000000000000 1f03f99ffb27e12ca9d687bfdaa6fbb3e9f6f083 A	server/src/main/java/com/example/package-info.java

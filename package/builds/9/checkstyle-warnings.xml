@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation-array>
+  <warning plugin="checkstyle@3.49">
+    <message>First sentence should end with a period.</message>
+    <priority>HIGH</priority>
+    <key>5625449265038623657</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.92">
+        <start>1</start>
+        <end>1</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>1</primaryLineNumber>
+    <fileName>/Users/Shared/Jenkins/Home/workspace/maven-project/server/src/main/java/com/example/package-info.java</fileName>
+    <moduleName></moduleName>
+    <packageName>com.example</packageName>
+    <category>Javadoc</category>
+    <type>JavadocStyleCheck</type>
+    <contextHashCode>-218718344</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>server/src/main/java/com/example</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>9</build>
+    <authorName>Dioler</authorName>
+    <authorEmail>diolermore@gmail.com</authorEmail>
+    <commitId>52f11158ced8a9560d7e8b8bde35cfd9dd3a891f</commitId>
+  </warning>
+</annotation-array>

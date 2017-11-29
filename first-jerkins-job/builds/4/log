@@ -1,0 +1,18 @@
+Started by user [8mha:////4DSQ6c5skD03CnQbLk2EmKWldfWsjAfoO0SlQ7j06urFAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /Users/Shared/Jenkins/Home/workspace/first-jerkins-job
+Cloning the remote Git repository
+Cloning repository https://github.com/diolermore/Jenkins-sync.git
+ > git init /Users/Shared/Jenkins/Home/workspace/first-jerkins-job # timeout=10
+Fetching upstream changes from https://github.com/diolermore/Jenkins-sync.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/diolermore/Jenkins-sync.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/diolermore/Jenkins-sync.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/diolermore/Jenkins-sync.git # timeout=10
+Fetching upstream changes from https://github.com/diolermore/Jenkins-sync.git
+ > git fetch --tags --progress https://github.com/diolermore/Jenkins-sync.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+ > git rev-parse origin/master^{commit} # timeout=10
+ERROR: Couldn't find any revision to build. Verify the repository and branch configuration for this job.
+[8mha:////4MP5cD1mT8EhJnvcJ5jMZGC95fI1h1yQHNlr83nE3upCAAAAVx+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0mV3NWzufebKBsTA0NFEYMUmgZnCA1SyAABjCCFBQC2xNaiYAAAAA==[0mFinished: FAILURE

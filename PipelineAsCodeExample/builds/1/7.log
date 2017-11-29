@@ -1,0 +1,18 @@
+Cloning the remote Git repository
+Cloning repository https://github.com/diolermore/maven-project.git
+ > git init /Users/Shared/Jenkins/Home/workspace/PipelineAsCodeExample # timeout=10
+Fetching upstream changes from https://github.com/diolermore/maven-project.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/diolermore/maven-project.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/diolermore/maven-project.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/diolermore/maven-project.git # timeout=10
+Fetching upstream changes from https://github.com/diolermore/maven-project.git
+ > git fetch --tags --progress https://github.com/diolermore/maven-project.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision bad3fac962ebf88267798fd1e0f021c621a1e749 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f bad3fac962ebf88267798fd1e0f021c621a1e749
+Commit message: "Jenkinsfile new"
+First time build. Skipping changelog.
